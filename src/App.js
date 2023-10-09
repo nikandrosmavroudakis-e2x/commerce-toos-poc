@@ -23,7 +23,7 @@ function App() {
           "Authorization": `Basic ${data.access_token}`,
         }
 
-        setAccessToken(data.access_token)
+        window.location.reload(false)
     },
     refetchOnWindowFocus: false,
     enabled: !accessToken,
