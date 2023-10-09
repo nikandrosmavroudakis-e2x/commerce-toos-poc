@@ -1,0 +1,8 @@
+{
+    "HOST": "https://api.eu-central-1.aws.commercetools.com",
+    "AUTH_URL": "https://auth.eu-central-1.aws.commercetools.com",
+    "AUTH_TOKEN": "c1RqOHd1bmhPVzFDdHdZeWRaRjVTYmJBOmZISnBUdTZfbTBLUzZkTlBISFVYQTJlNHFBU1R2TU4x",
+    "CLIENT_ID": "sTj8wunhOW1CtwYydZF5SbbA",
+    "CLIENT_SECRET": "fHJpTu6_m0KS6dNPHHUXA2e4qASTvMN1",
+    "PROJECT_KEY": "applydigital-checkout-poc"
+}
